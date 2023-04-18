@@ -35,7 +35,7 @@ std::tuple<std::list<path>, int> FW (int(&graph)[size][size], int s, int k){
             for (size_t x = 0; x < size; x++){
                 if(d[x][i] != inf and  d[i][y] != inf and d[x][y] > d[x][i] + d[i][y]){
                     d[x][y] = d[x][i] + d[i][y];
-                    r[x][y] = static_cast<int>(i);
+                        r[x][y] = static_cast<int>(i);
                 }
             }
         }
