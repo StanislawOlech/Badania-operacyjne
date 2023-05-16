@@ -74,7 +74,7 @@ endif()
 
 
 
-set(CMAKE_C_IMPLICIT_INCLUDE_DIRECTORIES "D:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include;D:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/include;D:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed;D:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/x86_64-w64-mingw32/include;/MinGW/include")
+set(CMAKE_C_IMPLICIT_INCLUDE_DIRECTORIES "D:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include;D:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/include;D:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed;D:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/x86_64-w64-mingw32/include")
 set(CMAKE_C_IMPLICIT_LINK_LIBRARIES "")
 set(CMAKE_C_IMPLICIT_LINK_DIRECTORIES "")
 set(CMAKE_C_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES "")
